@@ -10,6 +10,6 @@ This is Processing sample file for Sky cafe production.
 참고자료 reference
 
 - git guide site
- - https://rogerdudler.github.io/git-guide/index.ko.html
- - search google
+  - https://rogerdudler.github.io/git-guide/index.ko.html
+  - search google
 - https://gist.github.com/ihoneymon/652be052a0727ad59601
