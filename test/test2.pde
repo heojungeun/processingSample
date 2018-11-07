@@ -6,19 +6,17 @@ int xLocation = 100;
 float a=0.3;
 float b=0.3;
  
-void setup() 
-{ 
-size(200, 200, P3D); 
- 
-} 
- 
- 
-void draw()  
-{  
-  
+ void settings() {
+  size(200, 200, P3D); 
+}
+
+void setup() {
 background(128);  
 stroke(0);
- 
+}
+
+void draw() {
+
 head();
 body();
 arm();
