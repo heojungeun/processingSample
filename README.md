@@ -12,4 +12,5 @@ This is Processing sample file for Sky cafe production.
 - git guide site
   - https://rogerdudler.github.io/git-guide/index.ko.html
   - search google
-- https://gist.github.com/ihoneymon/652be052a0727ad59601
+- readMe 작성법(Markdown guide)
+  - https://gist.github.com/ihoneymon/652be052a0727ad59601
